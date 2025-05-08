@@ -1,9 +1,6 @@
-
-function uppg2() {
-   // Skriv din kod här
-   // deklarera en variable med ditt namn och skriv ut det i konsolen
-
-
+public class MittNamn {
+    public static void main(String[] args) {
+        String namn = "Jennifer";
+        System.out.println("Mitt namn är " + namn);
+    }
 }
-
-module.exports = { uppg2 };
