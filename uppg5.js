@@ -1,7 +1,9 @@
+
+
+function uppg5(){
 public class If {
    public static void main (String[] args) {
      
-      
       int tal1 = 100;
       int tal2 = 500;   
             
@@ -17,3 +19,5 @@ public class If {
    
    }
 }
+
+module.exports = { uppg5 };
