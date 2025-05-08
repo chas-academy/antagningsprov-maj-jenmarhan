@@ -1,11 +1,22 @@
 
 function uppg4() {
   
-    // deklarera ett objekt med namnet person
-    // objektet ska ha två properties, name och age
-    // tilldela age 25
-    // skriv ut med dotnotation åldern i konsolen
+   public class Main {
+    public static void main(String[] args) {
 
+        Person person = new Person();
+
+        person.name = "Jennifer";
+        person.age = 36;
+
+        System.out.println("Personens är " + person.age + " år gammal");
+    }
+}
+
+class Person {
+    String name;
+    int age;
+}
 
 }
 
