@@ -1,6 +1,7 @@
 
 
 function uppg6(){
+
 import java.util.ArrayList;
 
 public class NamnLista {
@@ -19,5 +20,4 @@ public class NamnLista {
 }
  
 }
-
 module.exports = { uppg6 };
