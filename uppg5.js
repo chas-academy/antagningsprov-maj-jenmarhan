@@ -1,6 +1,7 @@
 
 
 function uppg5(){
+
 public class If {
    public static void main (String[] args) {
      
@@ -20,4 +21,5 @@ public class If {
    }
 }
 
-module.exports = { uppg5 };
+}
+   module.exports = { uppg5 };
