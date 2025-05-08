@@ -1,11 +1,19 @@
-
-function uppg5() {
-    // skriv en if-sats som jämför två tal
-    // om det första talet är större än det andra, skriv ut "Det första talet är större än det andra"
-    // annars skriv ut "Det andra talet är större än det första"
-
-
-
+public class If {
+   public static void main (String[] args) {
+     
+      
+      int tal1 = 100;
+      int tal2 = 500;   
+            
+      if (tal1 > tal2) {
+         System.out.println("Det första talet är större än det andra");
+         
+      }
+    
+      else {
+         System.out.println("Det andra talet är större än det första");
+      
+      }
+   
+   }
 }
-
-module.exports = { uppg5 };
