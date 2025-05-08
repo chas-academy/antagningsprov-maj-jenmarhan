@@ -9,7 +9,7 @@ function uppg4() {
         person.name = "Jennifer";
         person.age = 36;
 
-        System.out.println("Personens är " + person.age + " år gammal");
+        System.out.println("Personen är " + person.age + " år gammal");
     }
 }
 
