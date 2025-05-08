@@ -1,6 +1,7 @@
 
 
 function uppg2(){
+    
 public class MittNamn {
     public static void main(String[] args) {
         String namn = "Jennifer";
@@ -8,4 +9,5 @@ public class MittNamn {
     }
 }
 
-module.exports = { uppg2 };
+}
+    module.exports = { uppg2 };
