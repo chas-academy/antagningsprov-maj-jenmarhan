@@ -1,6 +1,7 @@
 
 
 function uppg3(){
+
 public class SummeraVariabler {
     public static void main(String[] args) {
         int a = 5;
@@ -13,4 +14,5 @@ public class SummeraVariabler {
     }
   }
 
-module.exports = { uppg3 };
+}
+    module.exports = { uppg3 };
